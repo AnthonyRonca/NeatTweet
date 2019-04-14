@@ -9,7 +9,9 @@ This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
 I've implemented Lottie animations upon publishing a tweet, and favoriting a post. The favorite button is not fully functional yet due to constraint issues. 
 
-Time spent: **X** hours spent in total
+Data is fetched and displayed from Twitters API.
+
+Time spent: **8** hours spent in total
 
 ## User Stories
 
@@ -21,9 +23,7 @@ The following **required** functionality is completed:
 
 The following **bonus** features are implemented:
 
-- [ ] When composing a tweet, user sees a countdown for the number of characters remaining for the tweet (out of 140) (2pts)
-- [ ] User can view their profile in a profile tab. (3pts)
-- [ ] User sees embedded images in tweet if available. (3pts)
+- [x] When composing a tweet, user sees a countdown for the number of characters remaining for the tweet (out of 140) (2pts)
 
 ## Video Walkthrough
 
